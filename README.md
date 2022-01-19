@@ -6,5 +6,5 @@ En nuestro caso usamos https://github.com/hartator/wayback-machine-downloader
 1. Instalar wayback-machine-downloader
 2. Descargar snapshot de archive.org
 3. Montar descarga estática con nginx
-  * Revisar estáticos, archivos en caché etc (404 en consola)
-  * 
+1. Revisar estáticos, archivos en caché etc (404 en consola)
+1. 
